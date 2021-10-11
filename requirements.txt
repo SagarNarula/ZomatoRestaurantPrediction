@@ -71,6 +71,5 @@ wcwidth==0.2.5
 webencodings==0.5.1
 Werkzeug==2.0.2
 widgetsnbextension==3.5.1
-xgboost==1.4.2
 zipp==3.5.0
 gunicorn
